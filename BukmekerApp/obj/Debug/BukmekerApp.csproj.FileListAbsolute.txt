@@ -1,0 +1,10 @@
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\bin\Debug\BukmekerApp.exe.config
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\bin\Debug\BukmekerApp.exe
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\bin\Debug\BukmekerApp.pdb
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\bin\Debug\BukmekerLibrary.dll
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\bin\Debug\BukmekerLibrary.pdb
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\obj\Debug\BukmekerApp.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\obj\Debug\BukmekerApp.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\obj\Debug\BukmekerApp.csproj.CopyComplete
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\obj\Debug\BukmekerApp.exe
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerApp\obj\Debug\BukmekerApp.pdb

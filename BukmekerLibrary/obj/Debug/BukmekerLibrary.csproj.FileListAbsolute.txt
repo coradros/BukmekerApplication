@@ -1,0 +1,6 @@
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\bin\Debug\BukmekerLibrary.dll
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\bin\Debug\BukmekerLibrary.pdb
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\obj\Debug\BukmekerLibrary.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\obj\Debug\BukmekerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\obj\Debug\BukmekerLibrary.dll
+C:\Users\Евгений\source\repos\BukmekerApp\BukmekerLibrary\obj\Debug\BukmekerLibrary.pdb
